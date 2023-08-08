@@ -62,16 +62,15 @@ Here are some frameworks I've explored, though my experience is limited:
 - ![Angular.js Icon](angular-icon.png) Angular.js
 
 ### ![WGU Logo](wgu-icon.png) Western Governers University
-#### Bachelors in Computer Science 🦧 OR Bachelors in Cloud Computing 
+#### Bachelors in Computer Science 
 | Term | Course Name | Experience |
 |--------------------------|-------------------|------------|
-| TBD | TBD | TBD |
-| TBD | TBD | TBD |
-| TBD | TBD | TBD |
+| 2024 Spring | Calculus I | MATH Expert level 9000+ |
+| ... | ... | ... |
 
 ## 📚 Portfolio
 
-Check out my portfolio website to explore more of my projects and experiences: [Portfolio Link](link-to-portfolio)
+Check out my portfolio website to explore more of my projects and experiences: [Portfolio Link](https://aaronpotter6.wordpress.com/))
 
 ## 📫 Connect with Me
 
