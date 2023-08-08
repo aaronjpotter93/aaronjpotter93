@@ -31,8 +31,9 @@ I'm a student of Computer Science currently enrolled at the College of Western I
 ### Programming Languages & Technologies
 
 I'm relatively new to these technologies and have a basic understanding of them, having completed survey classes at CWI. While I don't have extensive experience, I'm familiar with the concepts and have worked on 2 to 3 beginner projects.
+#### ![CWI Logo](cwi-icon.png) College of Western Idaho
 
-| ![CWI Logo](cwi-icon.png) | Languages Covered | Experience |
+| ![Coding Language Icon](coding-icon.png) | Languages Covered | Experience |
 |--------------------------|-------------------|------------|
 | ![C# Icon](csharp-icon.png) | C# | Beginner (2-3 projects) |
 | ![HTML & CSS Icon](html-css-icon.png) | HTML & CSS | Beginner (2-3 projects) |
@@ -47,7 +48,7 @@ I'm relatively new to these technologies and have a basic understanding of them,
 | Term | Course Name | Experience |
 |--------------------------|-------------------|------------|
 | 2023 Summer ✔ | Programming Fundamentals | Beginner (2-3 projects) |
-| 2023 Fall ⬜ | Swift App Development I | Beginner (2-3 projects) |
+| 2023 Fall 🔄 | Swift App Development I | Beginner (2-3 projects) |
 | 2024 Spring ⬛ | Swift App Development II | Intermediate (2-3 projects) |
 | 2024 Falls ⬛ | Swift App Development: AR | Intermediate |
 
