@@ -1,4 +1,4 @@
-### Overview currently under construction so most of these links don't work yet 👋
+### Overview currently under construction so most of these links don't work yet 🔨
 
 <!--
 **aaronjpotter93/aaronjpotter93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 # Hello, I'm Aaron 👋
-
-[![Profile Image](link-to-your-profile-image)](link-to-your-profile)
 
 I'm a student of Computer Science currently enrolled at the College of Western Idaho, passionate about learning. Welcome to my GitHub profile! 🚀
 
@@ -38,17 +36,6 @@ I'm a student of Computer Science currently enrolled at the College of Western I
 ## 📚 Portfolio
 
 Check out my portfolio website to explore more of my projects and experiences: [Portfolio Link](link-to-portfolio)
-
-## 📊 GitHub Stats
-
-![GitHub Contributions](GitHub-contribution-graph-image)
-![GitHub Stats](GitHub-stats-badge-image)
-
-## 📝 Blog Posts
-
-- [Title of Blog Post 1](link-to-blog-post)
-- [Title of Blog Post 2](link-to-blog-post)
-- ...
 
 ## 📫 Connect with Me
 
