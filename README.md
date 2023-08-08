@@ -31,7 +31,8 @@ I'm a student of Computer Science currently enrolled at the College of Western I
 ### Programming Languages & Technologies
 
 I'm relatively new to these technologies and have a basic understanding of them, having completed survey classes at CWI. While I don't have extensive experience, I'm familiar with the concepts and have worked on 2 to 3 beginner projects.
-#### ![CWI Logo](cwi-icon.png) College of Western Idaho
+### ![CWI Logo](cwi-icon.png) College of Western Idaho
+#### Associate of Applied Science in Software Development ✔
 
 | ![Coding Language Icon](coding-icon.png) | Languages Covered | Experience |
 |--------------------------|-------------------|------------|
@@ -49,8 +50,8 @@ I'm relatively new to these technologies and have a basic understanding of them,
 |--------------------------|-------------------|------------|
 | 2023 Summer ✔ | Programming Fundamentals | Beginner (2-3 projects) |
 | 2023 Fall 🔄 | Swift App Development I | Beginner (2-3 projects) |
-| 2024 Spring ⬛ | Swift App Development II | Intermediate (2-3 projects) |
-| 2024 Falls ⬛ | Swift App Development: AR | Intermediate |
+| 2024 Spring ⬛ | Swift App Development II | Intermediate  |
+| 2024 Falls ⬛ | Swift App Development: AR | Beginner |
 
 ### Frameworks
 
@@ -59,6 +60,14 @@ Here are some frameworks I've explored, though my experience is limited:
 - ![Vue.js Icon](vue-icon.png) Vue.js
 - ![React.js Icon](react-icon.png) React.js
 - ![Angular.js Icon](angular-icon.png) Angular.js
+
+### ![WGU Logo](wgu-icon.png) Western Governers University
+#### Bachelors in Computer Science 🦧 OR Bachelors in Cloud Computing 
+| Term | Course Name | Experience |
+|--------------------------|-------------------|------------|
+| TBD | TBD | TBD |
+| TBD | TBD | TBD |
+| TBD | TBD | TBD |
 
 ## 📚 Portfolio
 
