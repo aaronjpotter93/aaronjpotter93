@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Profile Image](link-to-your-profile-image)](link-to-your-profile)
 
-I'm a [Your Role] passionate about [Your Interests]. Welcome to my GitHub profile! 🚀
+I'm a student of Computer Science currently enrolled at the College of Western Idaho, passionate about learning. Welcome to my GitHub profile! 🚀
 
 ## 🔥 Current Projects
 
@@ -54,9 +54,8 @@ Check out my portfolio website to explore more of my projects and experiences: [
 
 Let's connect and collaborate:
 
-- LinkedIn: [Your LinkedIn](link-to-LinkedIn)
-- Twitter: [Your Twitter](link-to-Twitter)
-- Email: your@email.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aaron-potter-31b172107/)
+- Email: aaronjpotter93@gmail.com
 
 Feel free to reach out!
 
