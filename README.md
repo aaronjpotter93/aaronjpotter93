@@ -54,7 +54,8 @@ Check out my portfolio website to explore more of my projects and experiences: [
 
 Let's connect and collaborate:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aaron-potter-31b172107/)
+- LinkedIn: <a href="[link-to-LinkedIn](https://www.linkedin.com/in/aaron-potter-31b172107/)" target="_blank">My Profile</a>
+
 - Email: aaronjpotter93@gmail.com
 
 Feel free to reach out!
