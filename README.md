@@ -37,7 +37,15 @@ I'm relatively new to these technologies and have a basic understanding of them,
 | ![C# Icon](csharp-icon.png) | C# | Beginner (2-3 projects) |
 | ![HTML & CSS Icon](html-css-icon.png) | HTML & CSS | Beginner (2-3 projects) |
 | ![JS Icon](javascript-icon.png) | JavaScript | Beginner (2-3 projects) |
-| ... | ... | ... |
+| ![Unity Icon](unity-icon.png) | Unity | Beginner (2 projects) |
+
+### Swift Programming Academic Certificate 🕊
+| Term | Course Name | Experience |
+|--------------------------|-------------------|------------|
+| Summer 2023 | Programming Fundamentals | Beginner (2-3 projects) |
+| Fall 2023 | Swift App Development I | Beginner (2-3 projects) |
+| Spring 2024 | Swift App Development II | Intermediate (2-3 projects) |
+| Fall 2024 | Swift App Development: AR | Intermediate |
 
 ### Frameworks
 
