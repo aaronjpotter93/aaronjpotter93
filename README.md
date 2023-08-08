@@ -37,15 +37,19 @@ I'm relatively new to these technologies and have a basic understanding of them,
 | ![C# Icon](csharp-icon.png) | C# | Beginner (2-3 projects) |
 | ![HTML & CSS Icon](html-css-icon.png) | HTML & CSS | Beginner (2-3 projects) |
 | ![JS Icon](javascript-icon.png) | JavaScript | Beginner (2-3 projects) |
+| ![SQL Icon](sql-icon.png) | SQL | Beginner (2-3 projects) |
+| ![PHP Icon](php-icon.png) | PHP | Beginner (2-3 projects) |
+| ![React Native Icon](React-Native-icon.png) | React Native | Beginner (2-3 projects) |
 | ![Unity Icon](unity-icon.png) | Unity | Beginner (2 projects) |
 
-### Swift Programming Academic Certificate 🕊
+
+### 🐤 Swift Programming Academic Certificate 
 | Term | Course Name | Experience |
 |--------------------------|-------------------|------------|
-| Summer 2023 | Programming Fundamentals | Beginner (2-3 projects) |
-| Fall 2023 | Swift App Development I | Beginner (2-3 projects) |
-| Spring 2024 | Swift App Development II | Intermediate (2-3 projects) |
-| Fall 2024 | Swift App Development: AR | Intermediate |
+| 2023 Summer ✔ | Programming Fundamentals | Beginner (2-3 projects) |
+| 2023 Fall ⬜ | Swift App Development I | Beginner (2-3 projects) |
+| 2024 Spring ⬛ | Swift App Development II | Intermediate (2-3 projects) |
+| 2024 Falls ⬛ | Swift App Development: AR | Intermediate |
 
 ### Frameworks
 
@@ -54,16 +58,6 @@ Here are some frameworks I've explored, though my experience is limited:
 - ![Vue.js Icon](vue-icon.png) Vue.js
 - ![React.js Icon](react-icon.png) React.js
 - ![Angular.js Icon](angular-icon.png) Angular.js
-
-### Databases & More
-
-In addition, I've had introductory exposure to:
-
-- ![SQL Icon](sql-icon.png) SQL
-- ![PHP Icon](php-icon.png) PHP
-- ![React Native Icon](react-native-icon.png) React Native
-- ![Swift Icon](swift-icon.png) Swift
-
 
 ## 📚 Portfolio
 
