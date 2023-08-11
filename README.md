@@ -79,7 +79,7 @@ Here are some frameworks I've explored, though my experience is limited:
 
 ---
 <h3>Udemy Courses</h3>
-| <img src="assets/udemy.svg" width="200" height="200" alt="Udemy Logo">
+<img src="assets/udemy.svg" width="200" height="200" alt="Udemy Logo">
 
 | Icon | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
