@@ -65,8 +65,10 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/createreactapp.svg" width="32" height="32" alt="Create React App Logo"> Create React App
 - <img src="assets/angular.svg" width="32" height="32" alt="Angular Logo"> Angular
 
-### ![WGU Logo](wgu-icon.png) Western Governers University
-#### Bachelors in Computer Science 
+<img src="assets/cwicompressed.jpg" width="200" height="80" alt="College of Western Idaho Logo" style="border-radius: 20px">
+
+<h4>Bachelors in Computer Science ⬛</h4>  
+
 | Term | Course Name | Experience |
 |--------------------------|-------------------|------------|
 | 2024 Spring | Calculus I | MATH Expert level 9000+ |
