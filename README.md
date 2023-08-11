@@ -73,7 +73,7 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/angular.svg" width="64" height="64" alt="Angular Logo"> Angular
 
 ---
-<h3><img src="assets/edx.svg" width="64" height="64" alt="edX Logo"> | HarvardX Courses 🔄</h3>
+<h3><img src="assets/edx.svg" width="64" height="64" alt="edX Logo"> | HarvardX 🔄</h3>
 <img src="assets/harvardlogo.png" width="200" height="200" alt="Harvard Logo"> 
 
 | Icon | Course Name | Experience |
@@ -88,10 +88,10 @@ Here are some frameworks I've explored, though my experience is limited:
 
 | Icon | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
-| ... | ... | ... |
+| <img src="assets/linux.svg" width="46" height="46" alt="Linux Logo">  | Master the Linux Command Line | Beginner |
+| <img src="assets/amazonaws.svg" width="64" height="64" alt="AWS Logo">  | AWS Certified Developer Associate | Beginner |
 
 ---
-
 <h3>Western Governors University</h3>
 <img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
 <h4>Bachelors in Computer Science ⬛</h4>  
