@@ -73,7 +73,7 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/angular.svg" width="64" height="64" alt="Angular Logo"> Angular
 
 ---
-<h3><img src="assets/edx.svg" width="100" height="100" alt="edX Logo"> | HarvardX 🔄</h3>
+<h3><img src="assets/edx.svg" width="80" height="80" alt="edX Logo"> | HarvardX 🔄</h3>
 <img src="assets/harvardlogo.png" width="200" height="200" alt="Harvard Logo"> 
 
 | Icon | Course Name | Experience |
@@ -83,7 +83,7 @@ Here are some frameworks I've explored, though my experience is limited:
 | <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50's Intro to Artificial Intelligence with Python ⬛ | Advanced |
 
 ---
-<img src="assets/udemy.svg" width="100" height="100" alt="Udemy Logo"> | <h3>Udemy Courses 🔄</h3>
+<h3><img src="assets/udemy.svg" width="80" height="80" alt="Udemy Logo"> |Udemy Courses 🔄</h3>
 
 | Icon | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
