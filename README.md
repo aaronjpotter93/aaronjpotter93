@@ -1,4 +1,4 @@
-### Overview currently under construction so most of these links don't work yet 🔨
+### Legend
 
 | Emoji | Meaning | 
 |:---------:|:-------------:|
