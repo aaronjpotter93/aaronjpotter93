@@ -1,5 +1,11 @@
 ### Overview currently under construction so most of these links don't work yet 🔨
 
+| Emoji | Meaning | 
+|:---------:|:-------------:|
+| ✔ | Completed |
+| 🔄 | In Progress |
+| ⬛ | Planned |
+
 <!--
 **aaronjpotter93/aaronjpotter93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
