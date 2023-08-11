@@ -34,7 +34,7 @@ I'm relatively new to these technologies and have a basic understanding of them,
 ### ![CWI Logo](cwi-icon.png) College of Western Idaho
 #### Associate of Applied Science in Software Development ✔
 
-| ![Coding Language Icon](coding-icon.png) | Languages Covered | Experience |
+| Icon| Languages Covered | Experience |
 |--------------------------|-------------------|------------|
 | <img src="assets/csharp.svg" width="32" height="32" alt="C Sharp Logo"> | C# | Beginner (2-3 projects) |
 | ![HTML & CSS Icon](html-css-icon.png) | HTML & CSS | Beginner (2-3 projects) |
