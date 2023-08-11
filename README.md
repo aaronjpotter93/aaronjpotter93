@@ -68,15 +68,26 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/angular.svg" width="64" height="64" alt="Angular Logo"> Angular
 
 ---
-<h3><img src="assets/edx.svg" width="64" height="64" alt="edX Logo"> | HarvardX Courses</h3>
+<h3><img src="assets/edx.svg" width="64" height="64" alt="edX Logo"> | HarvardX Courses 🔄</h3>
 <img src="assets/harvardlogo.png" width="200" height="200" alt="Harvard Logo"> 
 
 | Icon | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
-| <img src="assets/c.svg" width="64" height="64" alt="C Logo">  | CS50x Intro to Computer Science | Beginner |
-| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50P Intro to Computer Science | Beginner |
+| <img src="assets/c.svg" width="64" height="64" alt="C Logo">  | CS50x Intro to Computer Science 🔄 | Beginner |
+| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50P Intro to Computer Science ⬛ | Intermediate |
+| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50's Intro to Artificial Intelligence with Python ⬛ | Advanced |
 
 ---
+<h3>Udemy Courses</h3>
+| <img src="assets/udemy.svg" width="200" height="200" alt="Udemy Logo">
+| Icon | Course Name | Experience |
+|:--------------------------:|:-------------------:|------------:|
+| <img src="assets/c.svg" width="64" height="64" alt="C Logo">  | CS50x Intro to Computer Science 🔄 | Beginner |
+| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50P Intro to Computer Science ⬛ | Intermediate |
+| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50's Intro to Artificial Intelligence with Python ⬛ | Advanced |
+
+---
+
 <h3>Western Governors University</h3>
 <img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
 <h4>Bachelors in Computer Science ⬛</h4>  
