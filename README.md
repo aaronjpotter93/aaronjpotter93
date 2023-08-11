@@ -35,7 +35,7 @@ I'm relatively new to these technologies and have a basic understanding of them,
 #### Associate of Applied Science in Software Development ✔
 
 | Icon| Languages Covered | Experience |
-|:--------------------------:|-------------------|------------|
+|:--------------------------:|:-------------------:|:------------:|
 | <img src="assets/csharp.svg" width="32" height="32" alt="C Sharp Logo"> | C# | Beginner (2-3 projects) |
 | ![HTML & CSS Icon](html-css-icon.png) | HTML & CSS | Beginner (2-3 projects) |
 | ![JS Icon](javascript-icon.png) | JavaScript | Beginner (2-3 projects) |
@@ -47,7 +47,7 @@ I'm relatively new to these technologies and have a basic understanding of them,
 
 ### Swift Programming Academic Certificate
 | <img src="assets/swift.svg" width="64" height="64" alt="Swift Logo"> | Course Name | Experience |
-|--------------------------|-------------------|------------|
+|:--------------------------:|:-------------------:|:------------:|
 | 2023 Summer ✔ | Programming Fundamentals | Beginner (2-3 projects) |
 | 2023 Fall 🔄 | Swift App Development I | Beginner (2-3 projects) |
 | 2024 Spring ⬛ | Swift App Development II | Intermediate  |
