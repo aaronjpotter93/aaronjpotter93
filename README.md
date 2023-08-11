@@ -69,7 +69,7 @@ Here are some frameworks I've explored, though my experience is limited:
 
 ---
 <h3>edX Harvard Courses</h3>
-<img src="assets/harvardlogo.jpg" width="200" height="200" alt="Harvard Logo"> 
+<img src="assets/harvardlogo.png" width="200" height="200" alt="Harvard Logo"> 
 
 | <img src="assets/edx.svg" width="32" height="32" alt="edX Logo">  | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
