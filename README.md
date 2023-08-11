@@ -34,7 +34,7 @@ I'm a student of Computer Science currently enrolled at the College of Western I
 
 I'm relatively new to these technologies and have a basic understanding of them, having completed survey classes at CWI. While I don't have extensive experience, I'm familiar with the concepts and have worked on 2 to 3 beginner projects.
 
-<img src="assets/cwicompressed.jpg" width="200" height="80" alt="College of Western Idaho Logo" style="border-radius: 20px">
+<img src="assets/cwilogo.png" width="200" height="200" alt="College of Western Idaho Logo">
 <h4>Associate of Applied Science in Software Development ✔</h4>
 
 | Icon| Languages Covered | Experience |
