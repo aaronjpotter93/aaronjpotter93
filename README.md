@@ -45,7 +45,9 @@ I'm relatively new to these technologies and have a basic understanding of them,
 | ![Unity Icon](unity-icon.png) | Unity | Beginner (2 projects) |
 
 
-<img src="assets/swift.svg" width="32" height="32" alt="SVG Image"><span style="font-size: 1.17em; font-weight: bold;">Swift Programming Academic Certificate</span>
+<img src="assets/swift.svg" width="32" height="32" alt="SVG Image">
+<h3 id="certificate" style="display: inline; font-size: 1.17em; font-weight: bold; margin-left: 10px;">Swift Programming Academic Certificate</h3>
+
 | Term | Course Name | Experience |
 |--------------------------|-------------------|------------|
 | 2023 Summer ✔ | Programming Fundamentals | Beginner (2-3 projects) |
