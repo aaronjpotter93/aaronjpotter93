@@ -1,11 +1,3 @@
-### Legend
-
-| Emoji | Meaning | 
-|:---------:|:-------------:|
-| ✔ | Completed |
-| 🔄 | In Progress |
-| ⬛ | Planned |
-
 <!--
 **aaronjpotter93/aaronjpotter93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,6 +27,13 @@ I'm a student of Computer Science currently enrolled at the College of Western I
 -->
 
 ## 🛠️ Skills
+### Legend
+
+| Emoji | Meaning | 
+|:---------:|:-------------:|
+| ✔ | Completed |
+| 🔄 | In Progress |
+| ⬛ | Planned |
 
 ### Programming Languages & Technologies
 
