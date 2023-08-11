@@ -45,7 +45,13 @@ I'm relatively new to these technologies and have a basic understanding of them,
 | ![Unity Icon](unity-icon.png) | Unity | Beginner (2 projects) |
 
 
-<img src="assets/swift.svg" width="32" height="32" alt="SVG Image"><h3>Swift Programming Academic Certificate</h3>
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="assets/swift.svg" width="32" height="32" alt="SVG Image">
+</div>
+<div style="display: inline-block; vertical-align: middle;">
+  <h3 style="display: inline;">Swift Programming Academic Certificate</h3>
+</div>
+
 
 | Term | Course Name | Experience |
 |--------------------------|-------------------|------------|
