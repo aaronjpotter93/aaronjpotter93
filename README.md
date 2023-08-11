@@ -80,11 +80,10 @@ Here are some frameworks I've explored, though my experience is limited:
 ---
 <h3>Udemy Courses</h3>
 | <img src="assets/udemy.svg" width="200" height="200" alt="Udemy Logo">
+
 | Icon | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
-| <img src="assets/c.svg" width="64" height="64" alt="C Logo">  | CS50x Intro to Computer Science 🔄 | Beginner |
-| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50P Intro to Computer Science ⬛ | Intermediate |
-| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50's Intro to Artificial Intelligence with Python ⬛ | Advanced |
+| ... | ... | ... |
 
 ---
 
