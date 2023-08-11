@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 
 I'm a student of Computer Science currently enrolled at the College of Western Idaho, passionate about learning. Welcome to my GitHub profile! 🚀
 
+<!--
 ## 🔥 Current Projects
 
 | Project | Description | Technologies | Preview |
 |---------|-------------|--------------|---------|
 | [Project 1](link-to-project) | Short description of Project 1 | Tech stack used | ![Project 1 Preview](link-to-project-image) |
 | [Project 2](link-to-project) | Short description of Project 2 | Tech stack used | ![Project 2 Preview](link-to-project-image) |
+-->
 
 ## 🛠️ Skills
 
