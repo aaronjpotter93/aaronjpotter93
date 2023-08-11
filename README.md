@@ -57,6 +57,8 @@ I'm relatively new to these technologies and have a basic understanding of them,
 | 2024 Spring ⬛ | Swift App Development II | Intermediate  |
 | 2024 Falls ⬛ | Swift App Development: AR | Beginner |
 
+---
+
 ### Frameworks
 
 Here are some frameworks I've explored, though my experience is limited:
@@ -66,9 +68,9 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/angular.svg" width="32" height="32" alt="Angular Logo"> Angular
 
 ---
-<h4>Bachelors in Computer Science ⬛</h4>  
-
 <img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo" style="border-radius: 20px">
+
+<h4>Bachelors in Computer Science ⬛</h4>  
 
 | Term | Course Name | Experience |
 |--------------------------|-------------------|------------|
