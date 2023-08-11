@@ -78,7 +78,7 @@ Here are some frameworks I've explored, though my experience is limited:
 | <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50's Intro to Artificial Intelligence with Python ⬛ | Advanced |
 
 ---
-<h3>Udemy Courses</h3>
+<h3>Udemy Courses 🔄</h3>
 <img src="assets/udemy.svg" width="200" height="200" alt="Udemy Logo">
 
 | Icon | Course Name | Experience |
