@@ -38,7 +38,7 @@ I'm relatively new to these technologies and have a basic understanding of them,
 |:--------------------------:|:-------------------:|:------------:|
 | <img src="assets/csharp.svg" width="32" height="32" alt="C Sharp Logo"> | C# | Beginner (2-3 projects) |
 | <img src="assets/html5.svg" width="32" height="32" alt="HTML 5 Logo"><img src="assets/css3.svg" width="32" height="32" alt="CSS 3 Logo"> | HTML & CSS | Beginner (2-3 projects) |
-| <img src="assets/javascript.svg" width="32" height="32" alt="JavaScript Logo" | JavaScript | Beginner (2-3 projects) |
+| <img src="assets/javascript.svg" width="32" height="32" alt="JavaScript Logo">| JavaScript | Beginner (2-3 projects) |
 | ![SQL Icon](sql-icon.png) | SQL | Beginner (2-3 projects) |
 | ![PHP Icon](php-icon.png) | PHP | Beginner (2-3 projects) |
 | ![React Native Icon](React-Native-icon.png) | React Native | Beginner (2-3 projects) |
