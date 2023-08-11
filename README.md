@@ -46,7 +46,7 @@ I'm relatively new to these technologies and have a basic understanding of them,
 
 
 ### Swift Programming Academic Certificate
-| <img src="assets/swift.svg" width="64" height="64" alt="Swift Logo"> | Course Name | Experience |
+| <img src="assets/swift.svg" width="32" height="32" alt="Swift Logo"> | Course Name | Experience |
 |:--------------------------:|:-------------------:|:------------:|
 | 2023 Summer ✔ | Programming Fundamentals | Beginner (2-3 projects) |
 | 2023 Fall 🔄 | Swift App Development I | Beginner (2-3 projects) |
