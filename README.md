@@ -41,18 +41,18 @@ I'm relatively new to these technologies and have a basic understanding of them,
 
 | Icon| Languages Covered | Experience |
 |:--------------------------:|:-------------------:|:------------:|
-| <img src="assets/csharp.svg" width="32" height="32" alt="C Sharp Logo"> | C# | Beginner (2-3 projects) |
-| <img src="assets/html5.svg" width="32" height="32" alt="HTML 5 Logo"><img src="assets/css3.svg" width="32" height="32" alt="CSS 3 Logo"> | HTML & CSS | Beginner (2-3 projects) |
-| <img src="assets/javascript.svg" width="32" height="32" alt="JavaScript Logo">| JavaScript | Beginner (2-3 projects) |
-| <img src="assets/mysql.svg" width="32" height="32" alt="My SQL Logo">| SQL | Beginner (2-3 projects) |
-| <img src="assets/php.svg" width="32" height="32" alt="PHP Logo"> | PHP | Beginner (2-3 projects) |
-| <img src="assets/react.svg" width="32" height="32" alt="React Logo"> | React Native | Beginner (2-3 projects) |
-| <img src="assets/unity.svg" width="32" height="32" alt="Unity Logo"> | Unity | Beginner (2 projects) |
+| <img src="assets/csharp.svg" width="64" height="64" alt="C Sharp Logo"> | C# | Beginner (2-3 projects) |
+| <img src="assets/html5.svg" width="64" height="64" alt="HTML 5 Logo"><img src="assets/css3.svg" width="64" height="64" alt="CSS 3 Logo"> | HTML & CSS | Beginner (2-3 projects) |
+| <img src="assets/javascript.svg" width="64" height="64" alt="JavaScript Logo">| JavaScript | Beginner (2-3 projects) |
+| <img src="assets/mysql.svg" width="64" height="64" alt="My SQL Logo">| SQL | Beginner (2-3 projects) |
+| <img src="assets/php.svg" width="64" height="64" alt="PHP Logo"> | PHP | Beginner (2-3 projects) |
+| <img src="assets/react.svg" width="64" height="64" alt="React Logo"> | React Native | Beginner (2-3 projects) |
+| <img src="assets/unity.svg" width="64" height="64" alt="Unity Logo"> | Unity | Beginner (2 projects) |
 
 
 <h4>Swift Programming Academic Certificate 🔄</h4>
 
-| <img src="assets/swift.svg" width="32" height="32" alt="Swift Logo"> | Course Name | Experience |
+| <img src="assets/swift.svg" width="64" height="64" alt="Swift Logo"> | Course Name | Experience |
 |:--------------------------:|:-------------------:|:------------:|
 | 2023 Summer ✔ | Programming Fundamentals | Beginner (2-3 projects) |
 | 2023 Fall 🔄 | Swift App Development I | Beginner (2-3 projects) |
@@ -63,15 +63,15 @@ I'm relatively new to these technologies and have a basic understanding of them,
 
 Here are some frameworks I've explored, though my experience is limited:
 
-- <img src="assets/vuedotjs.svg" width="32" height="32" alt="Vue.js Logo"> Vue.js
-- <img src="assets/createreactapp.svg" width="32" height="32" alt="Create React App Logo"> Create React App
-- <img src="assets/angular.svg" width="32" height="32" alt="Angular Logo"> Angular
+- <img src="assets/vuedotjs.svg" width="64" height="64" alt="Vue.js Logo"> Vue.js
+- <img src="assets/createreactapp.svg" width="64" height="64" alt="Create React App Logo"> Create React App
+- <img src="assets/angular.svg" width="64" height="64" alt="Angular Logo"> Angular
 
 ---
 <h3>edX Harvard Courses</h3>
 <img src="assets/harvardlogo.png" width="200" height="200" alt="Harvard Logo"> 
 
-| <img src="assets/edx.svg" width="32" height="32" alt="edX Logo">  | Course Name | Experience |
+| <img src="assets/edx.svg" width="64" height="64" alt="edX Logo">  | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
 | ... | ... | ... |
 
