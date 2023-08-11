@@ -65,7 +65,7 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/createreactapp.svg" width="32" height="32" alt="Create React App Logo"> Create React App
 - <img src="assets/angular.svg" width="32" height="32" alt="Angular Logo"> Angular
 
-<img src="assets/wgu.png" width="200" height="80" alt="Western Governors University Logo" style="border-radius: 20px">
+<img src="assets/wgulogo.png" width="200" height="80" alt="Western Governors University Logo" style="border-radius: 20px">
 
 <h4>Bachelors in Computer Science ⬛</h4>  
 
