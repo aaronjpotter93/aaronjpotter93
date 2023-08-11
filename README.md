@@ -68,12 +68,13 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/angular.svg" width="64" height="64" alt="Angular Logo"> Angular
 
 ---
-<h3>edX Harvard Courses</h3>
+<h3>edX | HarvardX Courses</h3>
 <img src="assets/harvardlogo.png" width="200" height="200" alt="Harvard Logo"> 
 
 | <img src="assets/edx.svg" width="64" height="64" alt="edX Logo">  | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
-| ... | ... | ... |
+| <img src="assets/c.svg" width="64" height="64" alt="C Logo">  | CS50x Intro to Computer Science | Beginner |
+| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50P Intro to Computer Science | Beginner |
 
 ---
 <h3>Western Governors University</h3>
