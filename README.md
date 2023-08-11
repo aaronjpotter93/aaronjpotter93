@@ -84,12 +84,12 @@ Here are some frameworks I've explored, though my experience is limited:
 
 ---
 <h3>Udemy Courses 🔄</h3>
-<img src="assets/udemy.svg" width="200" height="200" alt="Udemy Logo">
+<img src="assets/udemy.svg" width="150" height="150" alt="Udemy Logo">
 
 | Icon | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
-| <img src="assets/linux.svg" width="46" height="46" alt="Linux Logo">  | Master the Linux Command Line | Beginner |
-| <img src="assets/amazonaws.svg" width="64" height="64" alt="AWS Logo">  | AWS Certified Developer Associate | Beginner |
+| <img src="assets/linux.svg" width="64" height="64" alt="Linux Logo">  | Master the Linux Command Line 🔄 | Beginner |
+| <img src="assets/amazonaws.svg" width="64" height="64" alt="AWS Logo">  | AWS Certified Developer Associate ⬛ | Beginner |
 
 ---
 <h3>Western Governors University</h3>
