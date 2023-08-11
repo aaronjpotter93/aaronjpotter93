@@ -36,7 +36,7 @@ I'm relatively new to these technologies and have a basic understanding of them,
 
 | ![Coding Language Icon](coding-icon.png) | Languages Covered | Experience |
 |--------------------------|-------------------|------------|
-| ![C# Icon](<img src="assets/csharp.svg" width="32" height="32" alt="C Sharp Logo">) | C# | Beginner (2-3 projects) |
+| <img src="assets/csharp.svg" width="32" height="32" alt="C Sharp Logo"> | C# | Beginner (2-3 projects) |
 | ![HTML & CSS Icon](html-css-icon.png) | HTML & CSS | Beginner (2-3 projects) |
 | ![JS Icon](javascript-icon.png) | JavaScript | Beginner (2-3 projects) |
 | ![SQL Icon](sql-icon.png) | SQL | Beginner (2-3 projects) |
