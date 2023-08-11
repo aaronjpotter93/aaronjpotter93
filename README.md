@@ -35,7 +35,7 @@ I'm relatively new to these technologies and have a basic understanding of them,
 #### Associate of Applied Science in Software Development ✔
 
 | Icon| Languages Covered | Experience |
-|--------------------------|-------------------|------------|
+|:--------------------------:|-------------------|------------|
 | <img src="assets/csharp.svg" width="32" height="32" alt="C Sharp Logo" style="display: block; margin: 0 auto;"> | C# | Beginner (2-3 projects) |
 | ![HTML & CSS Icon](html-css-icon.png) | HTML & CSS | Beginner (2-3 projects) |
 | ![JS Icon](javascript-icon.png) | JavaScript | Beginner (2-3 projects) |
