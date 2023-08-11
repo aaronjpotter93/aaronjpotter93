@@ -68,14 +68,16 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/angular.svg" width="32" height="32" alt="Angular Logo"> Angular
 
 ---
-<img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo" style="border-radius: 20px">
-
+<img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
+<h3>Western Governors University</h3>
 <h4>Bachelors in Computer Science ⬛</h4>  
 
 | Term | Course Name | Experience |
 |--------------------------|-------------------|------------|
 | 2024 Spring | Calculus I | MATH Expert level 9000+ |
 | ... | ... | ... |
+
+---
 
 ## 📚 Portfolio
 
