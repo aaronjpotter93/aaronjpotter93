@@ -71,6 +71,7 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/vuedotjs.svg" width="64" height="64" alt="Vue.js Logo"> Vue.js
 - <img src="assets/createreactapp.svg" width="64" height="64" alt="Create React App Logo"> Create React App
 - <img src="assets/angular.svg" width="64" height="64" alt="Angular Logo"> Angular
+- <img src="assets/wordpress.svg" width="64" height="64" alt="WordPress Logo"> WordPress
 
 ---
 <h3><img src="assets/edx.svg" width="90" height="90" alt="edX Logo"> | HarvardX 🔄</h3>
