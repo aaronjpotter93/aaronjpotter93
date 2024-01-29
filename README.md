@@ -36,7 +36,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 ---
 <h3>Western Governors University 🔄</h3>
 <img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
-<h4>Bachelors in Computer Science ⬛</h4>  
+<h4>Bachelors in Computer Science 🔄</h4>  
 
 | Term | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
