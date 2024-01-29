@@ -21,7 +21,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 
 | Project | Description | Technologies | Preview |
 |---------|-------------|--------------|---------|
-| <a href="https://github.com/bradenpotter12/budget_boys/tree/aaron" target="_blank">Budget Boys</a> | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | <img src="assets/python-logo-only.svg" width="64" height="64"> <img src="assets/psql.svg" width="64" height="64" alt="PostgreSQL Logo">| <a href="https://github.com/bradenpotter12/budget_boys/tree/aaron" target="_blank">Preview</a> |
+| [Budget Boys](https://github.com/bradenpotter12/budget_boys/tree/aaron) | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | <img src="assets/python-logo-only.svg" width="64" height="64"> <img src="assets/psql.svg" width="64" height="64" alt="PostgreSQL Logo">| [Preview](https://github.com/bradenpotter12/budget_boys/tree/aaron) |
 
 ## 🛠️ Skills
 ### Legend
