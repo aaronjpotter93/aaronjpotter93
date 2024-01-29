@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 
 # Hello, I'm Aaron 👋
 
-I'm a student of Computer Science currently enrolled at the College of Western Idaho, passionate about learning. Welcome to my GitHub profile! 🚀
+I'm a student of Computer Science currently enrolled at the Western Governers Univeristy working towards my Bachelors Degree. Welcome to my GitHub!
 
-<!--
 ## 🔥 Current Projects
 
 | Project | Description | Technologies | Preview |
 |---------|-------------|--------------|---------|
-| [Project 1](link-to-project) | Short description of Project 1 | Tech stack used | ![Project 1 Preview](link-to-project-image) |
-| [Project 2](link-to-project) | Short description of Project 2 | Tech stack used | ![Project 2 Preview](link-to-project-image) |
--->
+| [Project 1](https://github.com/bradenpotter12/budget_boys/tree/aaron) | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | Tech stack used | ![Project 1 Preview](link-to-project-image) |
 
 ## 🛠️ Skills
 ### Legend
@@ -35,12 +32,20 @@ I'm a student of Computer Science currently enrolled at the College of Western I
 | 🔄 | In Progress |
 | ⬛ | Planned |
 
-### Programming Languages & Technologies
+### Education
+---
+<h3>Western Governors University 🔄</h3>
+<img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
+<h4>Bachelors in Computer Science ⬛</h4>  
 
-I'm relatively new to these technologies and have a basic understanding of them, having completed survey classes at CWI. While I don't have extensive experience, I'm familiar with the concepts and have worked on 2 to 3 beginner projects.
+| Term | Course Name | Experience |
+|:--------------------------:|:-------------------:|------------:|
+| 2024 Spring | Calculus I | MATH Expert level 9000+ |
+| ... | ... | ... |
 
 ---
-<h3>College of Western Idaho</h3>
+
+<h3>College of Western Idaho ✔</h3>
 <img src="assets/cwilogo.png" width="200" height="200" alt="College of Western Idaho Logo">
 <h4>Associate of Applied Science in Software Development ✔</h4>
 
@@ -54,16 +59,14 @@ I'm relatively new to these technologies and have a basic understanding of them,
 | <img src="assets/react.svg" width="64" height="64" alt="React Logo"> | React Native | Beginner (2-3 projects) |
 | <img src="assets/unity.svg" width="64" height="64" alt="Unity Logo"> | Unity | Beginner (2 projects) |
 
-
-<h4>Swift Programming Academic Certificate 🔄</h4>
+<h4>Swift Programming Academic Certificate</h4>
 
 | <img src="assets/swift.svg" width="64" height="64" alt="Swift Logo"> | Course Name | Experience |
 |:--------------------------:|:-------------------:|:------------:|
 | 2023 Summer ✔ | Programming Fundamentals | Beginner (2-3 projects) |
-| 2023 Fall 🔄 | Swift App Development I | Beginner (2-3 projects) |
-| 2024 Spring ⬛ | Swift App Development II | Intermediate  |
-| 2024 Falls ⬛ | Swift App Development: AR | Beginner |
+| 2023 Fall ✔ | Swift App Development I | Beginner (2-3 projects) |
 
+<!--
 ### Frameworks
 
 Here are some frameworks I've explored, though my experience is limited:
@@ -72,6 +75,7 @@ Here are some frameworks I've explored, though my experience is limited:
 - <img src="assets/createreactapp.svg" width="64" height="64" alt="Create React App Logo"> Create React App
 - <img src="assets/angular.svg" width="64" height="64" alt="Angular Logo"> Angular
 - <img src="assets/wordpress.svg" width="64" height="64" alt="WordPress Logo"> WordPress
+-->
 
 ---
 <h3><img src="assets/edx.svg" width="90" height="90" alt="edX Logo"> | HarvardX 🔄</h3>
@@ -88,20 +92,9 @@ Here are some frameworks I've explored, though my experience is limited:
 
 | Icon | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
+| <img src="assets/psql.svg" width="64" height="64" alt="PostgreSQL Logo">  | The Complete SQL Bootcamp 🔄 | Beginner |
 | <img src="assets/linux.svg" width="64" height="64" alt="Linux Logo">  | Master the Linux Command Line 🔄 | Beginner |
 | <img src="assets/amazonaws.svg" width="64" height="64" alt="AWS Logo">  | AWS Certified Developer Associate ⬛ | Beginner |
-
----
-<h3>Western Governors University</h3>
-<img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
-<h4>Bachelors in Computer Science ⬛</h4>  
-
-| Term | Course Name | Experience |
-|:--------------------------:|:-------------------:|------------:|
-| 2024 Spring | Calculus I | MATH Expert level 9000+ |
-| ... | ... | ... |
-
----
 
 ## 📚 Portfolio
 
