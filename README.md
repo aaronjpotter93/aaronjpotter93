@@ -23,16 +23,14 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 |---------|-------------|--------------|---------|
 | [Budget Boys](https://github.com/bradenpotter12/budget_boys/tree/aaron) | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | <img src="assets/python-logo-only.svg" width="64" height="64"> <img src="assets/psql.svg" width="64" height="64" alt="PostgreSQL Logo">| [Preview](https://github.com/bradenpotter12/budget_boys/tree/aaron) |
 
-## 🛠️ Skills
-### Legend
 
+## 📚 Education
+### Legend
 | Emoji | Meaning | 
 |:---------:|:-------------:|
 | ✔ | Completed |
 | 🔄 | In Progress |
 | ⬛ | Planned |
-
-## 📚 Education
 ---
 <h3>Western Governors University 🔄</h3>
 <img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
