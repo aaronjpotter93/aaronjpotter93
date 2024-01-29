@@ -21,7 +21,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 
 | Project | Description | Technologies | Preview |
 |---------|-------------|--------------|---------|
-| [Budget Boys](https://github.com/bradenpotter12/budget_boys/tree/aaron) | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | Tech stack used | [Preview](https://github.com/bradenpotter12/budget_boys/tree/aaron) |
+| [Budget Boys](https://github.com/bradenpotter12/budget_boys/tree/aaron) | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | <img src="assets/python-logo-only.svg" width="64" height="64"> | [Preview](https://github.com/bradenpotter12/budget_boys/tree/aaron) |
 
 ## 🛠️ Skills
 ### Legend
@@ -84,8 +84,8 @@ Here are some frameworks I've explored, though my experience is limited:
 | Icon | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
 | <img src="assets/c.svg" width="64" height="64" alt="C Logo">  | CS50x Intro to Computer Science 🔄 | Beginner |
-| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50P Intro to Computer Science ⬛ | Intermediate |
-| <img src="assets/python.svg" width="64" height="64" alt="Python Logo">  | CS50's Intro to Artificial Intelligence with Python ⬛ | Advanced |
+| <img src="assets/python-logo-only.svg" width="64" height="64" alt="Python Logo">  | CS50P Intro to Computer Science ⬛ | Intermediate |
+| <img src="assets/python-logo-only.svg" width="64" height="64" alt="Python Logo">  | CS50's Intro to Artificial Intelligence with Python ⬛ | Advanced |
 
 ---
 <h3><img src="assets/udemy.svg" width="90" height="90" alt="Udemy Logo"> | Udemy Courses 🔄</h3>
