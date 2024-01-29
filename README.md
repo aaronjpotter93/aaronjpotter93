@@ -21,7 +21,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 
 | Project | Description | Technologies | Preview |
 |---------|-------------|--------------|---------|
-| [Project 1](https://github.com/bradenpotter12/budget_boys/tree/aaron) | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | Tech stack used | ![Project 1 Preview](link-to-project-image) |
+| [Budget Boys](https://github.com/bradenpotter12/budget_boys/tree/aaron) | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | Tech stack used | ![Preview](https://github.com/bradenpotter12/budget_boys/tree/aaron) |
 
 ## 🛠️ Skills
 ### Legend
