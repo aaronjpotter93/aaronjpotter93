@@ -32,7 +32,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 | 🔄 | In Progress |
 | ⬛ | Planned |
 
-### Education
+## 📚 Education
 ---
 <h3>Western Governors University 🔄</h3>
 <img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
@@ -49,7 +49,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 <img src="assets/cwilogo.png" width="200" height="200" alt="College of Western Idaho Logo">
 <h4>Associate of Applied Science in Software Development ✔</h4>
 
-| Icon| Languages Covered | Experience |
+| Technologies| Languages Covered | Experience |
 |:--------------------------:|:-------------------:|:------------:|
 | <img src="assets/csharp.svg" width="64" height="64" alt="C Sharp Logo"> | C# | Beginner (2-3 projects) |
 | <img src="assets/html5.svg" width="64" height="64" alt="HTML 5 Logo"><img src="assets/css3.svg" width="64" height="64" alt="CSS 3 Logo"> | HTML & CSS | Beginner (2-3 projects) |
@@ -81,7 +81,7 @@ Here are some frameworks I've explored, though my experience is limited:
 <h3><img src="assets/edx.svg" width="90" height="90" alt="edX Logo"> | HarvardX 🔄</h3>
 <img src="assets/harvardlogo.png" width="200" height="200" alt="Harvard Logo"> 
 
-| Icon | Course Name | Experience |
+| Technologies | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
 | <img src="assets/c.svg" width="64" height="64" alt="C Logo">  | CS50x Intro to Computer Science 🔄 | Beginner |
 | <img src="assets/python-logo-only.svg" width="64" height="64" alt="Python Logo">  | CS50P Intro to Computer Science ⬛ | Intermediate |
@@ -90,7 +90,7 @@ Here are some frameworks I've explored, though my experience is limited:
 ---
 <h3><img src="assets/udemy.svg" width="90" height="90" alt="Udemy Logo"> | Udemy Courses 🔄</h3>
 
-| Icon | Course Name | Experience |
+| Technologies | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
 | <img src="assets/psql.svg" width="64" height="64" alt="PostgreSQL Logo">  | The Complete SQL Bootcamp 🔄 | Beginner |
 | <img src="assets/linux.svg" width="64" height="64" alt="Linux Logo">  | Master the Linux Command Line 🔄 | Beginner |
