@@ -36,10 +36,13 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 <img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
 <h4>Bachelors in Computer Science 🔄</h4>  
 
-| Term | Course Name | Experience |
-|:--------------------------:|:-------------------:|------------:|
-| 2024 Spring | Calculus I | MATH Expert level 9000+ |
-| ... | ... | ... |
+| Term 1 | Course Name | 
+|:--------------------------:|:-------------------:|
+| 🔄 | D427 Data Management Applications | 
+| ⬛ | D197 Version Control | 
+| ⬛ | D281 Linux Foundations | 
+| ⬛ | D430 Fundamentals of Information Security |
+| ⬛ | C952 Computer Architecture |
 
 ---
 
