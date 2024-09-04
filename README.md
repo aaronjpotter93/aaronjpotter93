@@ -38,11 +38,18 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 
 | Term 1 | Course Name | 
 |:--------------------------:|:-------------------:|
-| 🔄 | D427 Data Management Applications | 
-| ⬛ | D197 Version Control | 
-| ⬛ | D281 Linux Foundations | 
-| ⬛ | D430 Fundamentals of Information Security |
-| ⬛ | C952 Computer Architecture |
+| ✔ | D286 Data Management Applications | 
+| ✔ | D197 Version Control | 
+| ✔ | D281 Linux Foundations | 
+| ✔ | D430 Fundamentals of Information Security |
+| ✔ | C952 Computer Architecture |
+
+| Term 2 | Course Name | 
+|:--------------------------:|:-------------------:|
+| 🔄 | D286 Java Fundamentals | 
+| ⬛ | D287 Java Frameworkds | 
+| ⬛ | D288 Back-End Programming | 
+| ⬛ | D387 Advanced Java |
 
 ---
 
