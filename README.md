@@ -19,9 +19,13 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 
 ## 🔥 Current Projects
 
-| Project | Description | Technologies | Preview |
+<!-- | Project | Description | Technologies | Preview |
 |---------|-------------|--------------|---------|
-| [Budget Boys](https://github.com/bradenpotter12/budget_boys/tree/aaron) | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | <img src="assets/python-logo-only.svg" width="64" height="64"> <img src="assets/psql.svg" width="64" height="64" alt="PostgreSQL Logo">| [Preview](https://github.com/bradenpotter12/budget_boys/tree/aaron) |
+| [Budget Boys](https://github.com/bradenpotter12/budget_boys/tree/aaron) | Redefined budgeting with flexibility and a neural network, personalize categories and effortlessly organize your finances according to your unique perspective | <img src="assets/python-logo-only.svg" width="64" height="64"> <img src="assets/psql.svg" width="64" height="64" alt="PostgreSQL Logo">| [Preview](https://github.com/bradenpotter12/budget_boys/tree/aaron) | -->
+
+| Project | Front-End | Back-End | 
+|---------|-------------|--------------|---------|
+| Full Stack Ecommerce Webapp | [Angular Front-End](https://github.com/aaronjpotter93/angular-ecommerce) | [Spring Boot Back-End](https://github.com/aaronjpotter93/spring-boot-ecommerce) | 
 
 
 ## 📚 Education
@@ -36,7 +40,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 <img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
 <h4>Bachelors in Computer Science 🔄</h4>  
 
-| Term 1 | Course Name | 
+| Spring 2024 | Course Name | 
 |:--------------------------:|:-------------------:|
 | ✔ | D286 Data Management Applications | 
 | ✔ | D197 Version Control | 
@@ -44,12 +48,34 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 | ✔ | D430 Fundamentals of Information Security |
 | ✔ | C952 Computer Architecture |
 
-| Term 2 | Course Name | 
+| Fall 2024 | Course Name | 
 |:--------------------------:|:-------------------:|
-| 🔄 | D286 Java Fundamentals | 
-| ⬛ | D287 Java Frameworkds | 
-| ⬛ | D288 Back-End Programming | 
+| ✔ | D286 Java Fundamentals | 
+| 🔄 | D287 Java Frameworkds | 
+| 🔄 | D288 Back-End Programming | 
 | ⬛ | D387 Advanced Java |
+| ⬛ | C958 Calculus I |
+
+| Spring 2025 | Course Name | 
+|:--------------------------:|:-------------------:|
+| ⬛ | Introduction to Computer Science |
+| ⬛ | Introduction to Systems Thinking and Applications |
+| ⬛ | Discrete Mathematics I |
+| ⬛ | Discrete Mathematics II |
+
+| Fall 2025 | Course Name | 
+|:--------------------------:|:-------------------:|
+| ⬛ | Data Structures & Algorithms I |
+| ⬛ | Data Structures & Algorithms II |
+| ⬛ | Introduction to AI for Computer Scientists |
+| ⬛ | Software Design and Quality Assurance |
+
+| Spring 2026 | Course Name | 
+|:--------------------------:|:-------------------:|
+| ⬛ | Operating Systems for Computer Scientists |
+| ⬛ | Advanced AI and ML |
+| ⬛ | Software Engineering |
+| ⬛ | Computer Science Project Development with a Team |
 
 ---
 
@@ -74,18 +100,22 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 | 2023 Summer ✔ | Programming Fundamentals | Beginner (2-3 projects) |
 | 2023 Fall ✔ | Swift App Development I | Beginner (2-3 projects) |
 
-<!--
+
 ### Frameworks
 
-Here are some frameworks I've explored, though my experience is limited:
+Front-End frameworks:
 
 - <img src="assets/vuedotjs.svg" width="64" height="64" alt="Vue.js Logo"> Vue.js
 - <img src="assets/createreactapp.svg" width="64" height="64" alt="Create React App Logo"> Create React App
 - <img src="assets/angular.svg" width="64" height="64" alt="Angular Logo"> Angular
 - <img src="assets/wordpress.svg" width="64" height="64" alt="WordPress Logo"> WordPress
--->
 
----
+Back-End frameworks:
+
+- <img src="assets/Spring_Boot.svg.svg" width="64" height="64" alt="Spring Boot Logo"> Spring Boot
+- <img src="assets/Node.js_logo.svg" width="64" height="64" alt="Node.js Logo Logo"> Node
+
+<!-- ---
 <h3><img src="assets/edx.svg" width="90" height="90" alt="edX Logo"> | HarvardX 🔄</h3>
 <img src="assets/harvardlogo.png" width="200" height="200" alt="Harvard Logo"> 
 
@@ -93,16 +123,16 @@ Here are some frameworks I've explored, though my experience is limited:
 |:--------------------------:|:-------------------:|------------:|
 | <img src="assets/c.svg" width="64" height="64" alt="C Logo">  | CS50x Intro to Computer Science 🔄 | Beginner |
 | <img src="assets/python-logo-only.svg" width="64" height="64" alt="Python Logo">  | CS50P Intro to Computer Science ⬛ | Intermediate |
-| <img src="assets/python-logo-only.svg" width="64" height="64" alt="Python Logo">  | CS50's Intro to Artificial Intelligence with Python ⬛ | Advanced |
+| <img src="assets/python-logo-only.svg" width="64" height="64" alt="Python Logo">  | CS50's Intro to Artificial Intelligence with Python ⬛ | Advanced | -->
 
----
+<!-- ---
 <h3><img src="assets/udemy.svg" width="90" height="90" alt="Udemy Logo"> | Udemy Courses 🔄</h3>
 
 | Technologies | Course Name | Experience |
 |:--------------------------:|:-------------------:|------------:|
 | <img src="assets/psql.svg" width="64" height="64" alt="PostgreSQL Logo">  | The Complete SQL Bootcamp 🔄 | Beginner |
 | <img src="assets/linux.svg" width="64" height="64" alt="Linux Logo">  | Master the Linux Command Line 🔄 | Beginner |
-| <img src="assets/amazonaws.svg" width="64" height="64" alt="AWS Logo">  | AWS Certified Developer Associate ⬛ | Beginner |
+| <img src="assets/amazonaws.svg" width="64" height="64" alt="AWS Logo">  | AWS Certified Developer Associate ⬛ | Beginner | -->
 
 ## 📚 Portfolio
 
