@@ -19,7 +19,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 
 ## 🔥 Current Project
 
-| Project | Front-End | Back-End | Try It Out! |
+| Project | Front-End Repository | Back-End Repository | Try It Out! |
 |---------|-------------|--------------|---------|
 | Full Stack Ecommerce Webapp | [Angular](https://github.com/aaronjpotter93/angular-ecommerce)| [Spring Boot](https://github.com/aaronjpotter93/spring-boot-ecommerce)| [Preview]() |
 
@@ -32,7 +32,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 | ✔ | Completed |
 | 🔄 | In Progress |
 | ⬛ | Planned |
----
+
 <h3>Western Governors University 🔄</h3>
 <img src="assets/wgulogo.png" width="200" height="200" alt="Western Governors University Logo">
 <h4>Bachelors in Computer Science 🔄</h4>  
