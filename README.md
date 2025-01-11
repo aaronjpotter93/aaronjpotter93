@@ -46,12 +46,12 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 | ✔ | C952 Computer Architecture |
 
 | Fall 2024 | Course Name | 
-|:--------------------------:|:-------------------:|
-| ✔ | D286 Java Fundamentals | 
-| 🔄 | D287 Java Frameworkds | 
-| 🔄 | D288 Back-End Programming | 
-| ⬛ | D387 Advanced Java |
-| ⬛ | C958 Calculus I |
+|:---------:|:-------------------:|
+|     ✔     | D286 Java Fundamentals | 
+|     ✔     | D287 Java Frameworkds | 
+|    ✔     | D288 Back-End Programming | 
+|    🔄     | D387 Advanced Java |
+|     ⬛     | C958 Calculus I |
 
 | Spring 2025 | Course Name | 
 |:--------------------------:|:-------------------:|
