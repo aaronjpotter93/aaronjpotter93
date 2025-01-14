@@ -19,9 +19,9 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 
 ## 🔥 Current Project
 
-| Project | Front-End Repository | Back-End Repository | Try It Out! |
+| Project | Preview Link  | Code Directory |
 |---------|-------------|--------------|---------|
-| Full Stack Ecommerce Webapp | [Angular](https://github.com/aaronjpotter93/angular-ecommerce)| [Spring Boot](https://github.com/aaronjpotter93/spring-boot-ecommerce)| [Preview]() |
+| Spring Boot Webapp | [Live Preview](http://18.237.197.184:8081/mainscreen)| [Project Code](https://github.com/aaronjpotter93/d287-java-frameworks) |
 
 ---
 
@@ -59,16 +59,13 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 | ⬛ | Introduction to Systems Thinking and Applications |
 | ⬛ | Discrete Mathematics I |
 | ⬛ | Discrete Mathematics II |
+| ⬛ | Data Structures & Algorithms I |
+| ⬛ | Data Structures & Algorithms II |
 
 | Fall 2025 | Course Name | 
 |:--------------------------:|:-------------------:|
-| ⬛ | Data Structures & Algorithms I |
-| ⬛ | Data Structures & Algorithms II |
 | ⬛ | Introduction to AI for Computer Scientists |
 | ⬛ | Software Design and Quality Assurance |
-
-| Spring 2026 | Course Name | 
-|:--------------------------:|:-------------------:|
 | ⬛ | Operating Systems for Computer Scientists |
 | ⬛ | Advanced AI and ML |
 | ⬛ | Software Engineering |
