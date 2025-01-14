@@ -1,18 +1,3 @@
-<!--
-**aaronjpotter93/aaronjpotter93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hello, I'm Aaron 👋
 
 I'm a student of Computer Science currently enrolled at the Western Governers Univeristy working towards my Bachelors Degree. Welcome to my GitHub!
@@ -136,7 +121,7 @@ Check out my portfolio website to explore more of my projects and experiences: [
 
 Let's connect and collaborate:
 
-- LinkedIn: <a href="https://www.linkedin.com/in/aaron-potter-31b172107/" target="_blank">My Profile</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/aaron-potter-31b172107/">My Profile</a>
 
 - Email: aaronjpotter93@gmail.com
 
