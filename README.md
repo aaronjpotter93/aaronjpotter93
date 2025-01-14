@@ -20,7 +20,7 @@ I'm a student of Computer Science currently enrolled at the Western Governers Un
 ## 🔥 Current Project
 
 | Project | Preview Link  | Code Directory |
-|---------|-------------|--------------|---------|
+|---------|-------------|---------|
 | Spring Boot Webapp | [Live Preview](http://18.237.197.184:8081/mainscreen)| [Project Code](https://github.com/aaronjpotter93/d287-java-frameworks) |
 
 ---
