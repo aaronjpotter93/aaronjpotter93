@@ -14,6 +14,7 @@ I'm a Computer Science student at Western Governors University, working towards 
 
 ## Technologies & Frameworks:
 <p>
+  <img src="assets/c.svg" width="40" height="40" alt="C Logo">&nbsp;
   <img src="assets/csharp.svg" width="40" height="40" alt="C# Logo">&nbsp;
   <img src="assets/html5.svg" width="40" height="40" alt="HTML Logo">&nbsp;
   <img src="assets/css3.svg" width="40" height="40" alt="CSS Logo">&nbsp;
@@ -27,6 +28,13 @@ I'm a Computer Science student at Western Governors University, working towards 
   <img src="assets/wordpress.svg" width="40" height="40" alt="WordPress Logo">&nbsp;
   <img src="assets/Java.svg" width="40" height="40" alt="Java Logo">&nbsp;
   <img src="assets/Spring_Boot.svg" width="40" height="40" alt="SpringBoot Logo">&nbsp;
+  <img src="assets/docker-mark-blue.svg" width="40" height="40" alt="Docker Logo">&nbsp;
+</p>
+
+## Certifications:
+<p>
+  <image src="assets/aws-cert.png" width="40" height="40" alt="AWS Cloud Practitioner Logo">&nbsp;
+  <image src="assets/LPI_Essentials.png" widght="60" height="40" alt="LPI Logo">&nbsp;
 </p>
 
 <br>
@@ -34,6 +42,7 @@ I'm a Computer Science student at Western Governors University, working towards 
 
 **Links**
 ---
+- [Portfolio](https://aaronpotter6.wordpress.com)
 - [LinkedIn](https://www.linkedin.com/in/aaron-potter-31b172107/)
 - Email: aaronjpotter93@gmail.com
 ---
