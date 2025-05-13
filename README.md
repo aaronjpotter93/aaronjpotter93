@@ -26,7 +26,7 @@ I'm a Computer Science student at Western Governors University, working towards 
   <img src="assets/vuedotjs.svg" width="40" height="40" alt="Vue.js Logo">&nbsp;
   <img src="assets/angular.svg" width="40" height="40" alt="Angular Logo">&nbsp;
   <img src="assets/wordpress.svg" width="40" height="40" alt="WordPress Logo">&nbsp;
-  <img src="assets/Java.svg" width="40" height="40" alt="Java Logo">&nbsp;
+  <img src="assets/java.svg" width="40" height="40" alt="Java Logo">&nbsp;
   <img src="assets/Spring_Boot.svg" width="40" height="40" alt="SpringBoot Logo">&nbsp;
   <img src="assets/docker-mark-blue.svg" width="40" height="40" alt="Docker Logo">&nbsp;
 </p>
