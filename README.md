@@ -14,19 +14,19 @@ I'm a Computer Science student at Western Governors University, working towards 
 
 ## Technologies & Frameworks:
 <p>
-  <img src="assets/csharp.svg" width="40" height="40" alt="C# Logo"> C# &nbsp;
-  <img src="assets/html5.svg" width="40" height="40" alt="HTML Logo"> HTML &nbsp;
-  <img src="assets/css3.svg" width="40" height="40" alt="CSS Logo"> CSS &nbsp;
-  <img src="assets/javascript.svg" width="40" height="40" alt="JavaScript Logo"> JavaScript &nbsp;
-  <img src="assets/mysql.svg" width="40" height="40" alt="SQL Logo"> SQL &nbsp;
-  <img src="assets/php.svg" width="40" height="40" alt="PHP Logo"> PHP &nbsp;
-  <img src="assets/react.svg" width="40" height="40" alt="React Native Logo"> React Native &nbsp;
-  <img src="assets/swift.svg" width="40" height="40" alt="Swift Logo"> Swift &nbsp;
-  <img src="assets/vuedotjs.svg" width="40" height="40" alt="Vue.js Logo"> Vue.js &nbsp;
-  <img src="assets/angular.svg" width="40" height="40" alt="Angular Logo"> Angular &nbsp;
-  <img src="assets/wordpress.svg" width="40" height="40" alt="WordPress Logo"> WordPress &nbsp;
-  <img src="assets/Java.svg" width="40" height="40" alt="WordPress Logo"> Java &nbsp;
-  <img src="assets/Spring_Boot.svg" width="40" height="40" alt="WordPress Logo"> SpringBoot &nbsp;
+  <img src="assets/csharp.svg" width="40" height="40" alt="C# Logo">&nbsp;
+  <img src="assets/html5.svg" width="40" height="40" alt="HTML Logo">&nbsp;
+  <img src="assets/css3.svg" width="40" height="40" alt="CSS Logo">&nbsp;
+  <img src="assets/javascript.svg" width="40" height="40" alt="JavaScript Logo">&nbsp;
+  <img src="assets/mysql.svg" width="40" height="40" alt="SQL Logo">&nbsp;
+  <img src="assets/php.svg" width="40" height="40" alt="PHP Logo">&nbsp;
+  <img src="assets/react.svg" width="40" height="40" alt="React Native Logo">&nbsp;
+  <img src="assets/swift.svg" width="40" height="40" alt="Swift Logo">&nbsp;
+  <img src="assets/vuedotjs.svg" width="40" height="40" alt="Vue.js Logo">&nbsp;
+  <img src="assets/angular.svg" width="40" height="40" alt="Angular Logo">&nbsp;
+  <img src="assets/wordpress.svg" width="40" height="40" alt="WordPress Logo">&nbsp;
+  <img src="assets/Java.svg" width="40" height="40" alt="Java Logo">&nbsp;
+  <img src="assets/Spring_Boot.svg" width="40" height="40" alt="SpringBoot Logo">&nbsp;
 </p>
 
 <br>
