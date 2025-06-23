@@ -33,8 +33,11 @@ I'm a Computer Science student at Western Governors University, working towards 
 
 ## Certifications:
 <p>
-  <image src="assets/aws-cert.png" width="40" height="40" alt="AWS Cloud Practitioner Logo">&nbsp;
-  <image src="assets/LPI_Essentials.png" widght="60" height="40" alt="LPI Logo">&nbsp;
+  <a href="https://www.credly.com/badges/58e5c123-3f4c-4f22-8469-57bb9b568bac/linked_in_profile"><image src="assets/aws-cert.png" width="40" height="40" alt="AWS Cloud Practitioner Logo"></a>&nbsp;
+  <a href="https://lpi.org/v/LPI000616133/l9b5z7s7lv"><image src="assets/LPI_Essentials.png" widght="60" height="40" alt="LPI Logo"></a>&nbsp;
+  <image src="assets/swift-logo.png" width="40" height="40" alt="Swift Logo">&nbsp;
+  <image src="assets/microsoft-logo.jpg" width="40" height="40" style="border-radius: 10px; margin-left: 20px" alt="Microsoft Logo">&nbsp;
+   <a href=""><image src="assets/microsoft-logo.jpg" width="40" height="40" style="border-radius: 10px; margin-left: 20px" alt="Microsoft Logo"></a>&nbsp;
 </p>
 
 <br>
