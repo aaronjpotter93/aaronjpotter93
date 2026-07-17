@@ -8,7 +8,7 @@ I'm a Computer Science student at Western Governors University, working towards 
 <i>Find more live previews of my [Portfolio](https://aaronpotter6.wordpress.com) work </i>
 
 ## Education
-**Western Governors University**: Bachelors in Computer Science (In Progress) <i>2024 - 2026</i>
+**Western Governors University**: Bachelors in Computer Science (In Progress) <i>2024 - 2027</i>
 
 **College of Western Idaho**: Associate of Applied Science in Software Development (Completed) <i>2021 - 2023</i>
 
