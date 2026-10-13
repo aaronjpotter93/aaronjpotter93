@@ -2,11 +2,6 @@
 
 I'm a Computer Science student at Western Governors University, working towards my Bachelor's Degree. Welcome to my GitHub!
 
-## Current Course Project
-**Spring Boot Webapp**: [Live Preview](http://18.237.197.184:8081/mainscreen) | [Project Code](https://github.com/aaronjpotter93/d287-java-frameworks)
-
-<i>Find more live previews of my [Portfolio](https://aaronpotter6.wordpress.com) work </i>
-
 ## Education
 **Western Governors University**: Bachelors in Computer Science (In Progress) <i>2024 - 2027</i>
 
